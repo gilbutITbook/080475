@@ -12,9 +12,13 @@
   - 1~8강(무료): https://www.youtube.com/watch?v=NQq0dOoEPUM
   - 전체 강의(유로): https://inf.run/BUS6
 
-## 무료 전자책 
+## 부록 별도 제공 
 - 본 책 외에 부록을 제공합니다. 
-- 부록은 5월 11일 이후 각 온라인 서점에서 무료 전자책 형태로 다운로드할 수 있습니다.
+- 부록은 각 온라인 서점에서 무료 전자책 형태로 다운로드할 수 있습니다.
+  - 교보문고: https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012925148
+  - Yes24: https://www.yes24.com/Product/Goods/188881301
+  - 알라딘: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=391830636
+  - 구글플레이북: http://bit.ly/4tLlimK
 - 부록에서 다루는 내용은 다음과 같습니다.
   - A. 제네릭
   - B. 익명 클래스, 람다식, 스트림
